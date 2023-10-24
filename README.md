@@ -1,1 +1,3 @@
-welcome to my test website... well not really
+welcome to my website's github page! 
+
+(i used dual.my so thanks to them)
