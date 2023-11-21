@@ -1,3 +1,1 @@
-welcome to my website's main github page! 
-
-(i used dual.my so thanks to them)
+WEBSITE HAS BEEN MOVED TO https://myrble.neocities.org/
